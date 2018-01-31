@@ -9,3 +9,5 @@ layout: home
 ---
 
 Stupina Serban comercializeaza miere si produse apicole naturale de cea mai buna calitate. 
+
+![](assets/salcam-800.jpg)
