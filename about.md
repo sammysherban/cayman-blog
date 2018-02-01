@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-tagline: A few more words about this theme
+title: Stupina noastră
+tagline: Printre albine, flori și mult soare
 permalink: /about.html
 ---
 
@@ -10,4 +10,4 @@ This is the _Cayman Blog_ Jekyll theme. You can find out more info about customi
 You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
 
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+[Înapoi la pagina principală]({{ site.url }}{{ site.baseurl }})
