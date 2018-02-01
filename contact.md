@@ -4,10 +4,11 @@ title: Cum cumpăr?
 tagline: Ne găsiți în Piața 16 Februarie din Bucureștii Noi sau pe Strada Rudeni nr 4, Chitila
 ---
 
-Telefon: 021 436 38 70
-Mobil: 0728 391 935
+Telefon:  <a href="tel:+4 021 436 38 70">021 436 38 70</a>
 
-În piață: Sunați-ne mai întâi să vă asigurați că suntem în ziua și la ora la care veniți.
+Mobil: <a href="tel:+4 0728 391 935">0728 391 935</a>
+
+În piață: Sunați-ne mai întâi să vă asigurați că suntem prezenți în ziua și la ora la care veniți.
 
 Acasă: De luni până sâmbătă între orele 9 dimineața și 7 seara. 
 
