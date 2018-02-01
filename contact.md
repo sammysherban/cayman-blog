@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Contact
-tagline: Create a contact form and you are good to go
+title: Cum cumpăr?
+tagline: Ne găsiți în Piața 16 Februarie din Bucureștii Noi sau pe Strada Rudeni nr 4, Chitila
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why it's hard to put a form on a Jekyll site.
+Telefon: 021 436 38 70
+Mobil: 0728 391 935
 
-Here listed some resources which provide  a saas service as a backend for forms (contact forms, hiring forms, etc.) to designers and developers like you:
-1. [Formspree (also open source, free)](https://formspree.io/)
-2. [FormKeep](https://formkeep.com/guides/contact-form-jekyll)
-3. [Simple Form](https://getsimpleform.com/)
+În piață: Sunați-ne mai întâi să vă asigurați că suntem în ziua și la ora la care veniți.
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+Acasă: De luni până sâmbătă între orele 9 dimineața și 7 seara. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5691.31458067288!2d25.982041770939475!3d44.50168860051332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1517527176606" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+[Înapoi la pagina principală]({{ site.url }}{{ site.baseurl }})
