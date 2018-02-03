@@ -8,12 +8,16 @@
 layout: home
 ---
 
-Stupina Șerban produce comercializează miere și produse apicole naturale de cea mai bună calitate. 
+Stupina Șerban produce și comercializează produse apicole naturale de cea mai bună calitate. 
 
 La noi găsiți miere de albine din flori de salcâm, tei, rapiță sau polifloră (din mai multe flori).
 
-În limita stocului, vă oferim și polen proaspăt, propolis și faguri cu miere.
+În limita stocului, vă oferim și polen proaspăt, ceară, propolis și faguri cu miere. 
 
 <a href="{{ about_page.url | relative_url }}" aria-label="Contact" title="Contactează Stupina Șerban">Cum cumpăr?</a>
 
-![](assets/salcam-512.jpeg) ![](assets/poliflora-512.jpeg) ![](assets/rapita-512.jpeg)
+<div>
+    <div name="image-row-3"> ![Miere de salcâm](assets/salcam-512.jpeg) Miere de salcâm </div>
+    <div name="image-row-3"> ![Miere polifloră](assets/poliflora-512.jpeg) Miere polifloră </div>
+    <div name="image-row-3"> ![Miere de rapiță](assets/rapita-512.jpeg) Miere de rapiță</div>
+</div>
