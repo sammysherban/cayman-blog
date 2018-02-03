@@ -58,7 +58,7 @@
       <h2 class="project-tagline">{{ page-tagline }}</h2>
     
         {% assign about_page = site.pages | where: "path", "contact.md" | first %}
-          {% if about_page.title nad page.contact != 'true' %}
+          {% if about_page.title and page.contact != 'true' %}
               <a href="{{ about_page.url | relative_url }}" class="btn">Cum cumpăr?</a>
           {% endif %}
       
