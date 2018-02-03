@@ -56,8 +56,16 @@
     <section class="page-header">
       <h1 class="project-name">{{ page-title }}</h1>
       <h2 class="project-tagline">{{ page-tagline }}</h2>
-       {% if page.contact != 'true' %}
-          <a href="{{ contact.md }}" class="btn">Cum cumpăr?</a> 
+    
+        {% assign about_page = site.pages | where: "path", "contact.md" | first %}
+          {% if about_page.title nad page.contact != 'true' %}
+              <a href="{{ about_page.url | relative_url }}" class="btn">Cum cumpăr?</a>
+          {% endif %}
+      
+      
+      <!-- {% if page.contact != 'true' %}
+          <a href="{{ contact.md }}" class="btn">Cum cumpăr?</a>  -->
+      
         {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
           <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
