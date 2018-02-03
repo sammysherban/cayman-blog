@@ -91,18 +91,22 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: $header-bg-image;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
 
   @include large {
     padding: 5rem 6rem;
+    background-image: url(../../assets/stupina_wide_dark.jpeg);
   }
 
   @include medium {
     padding: 3rem 4rem;
+    background-image: url(../../assets/stupina_medium_dark.jpeg);
   }
 
   @include small {
     padding: 2rem 1rem;
+    background-image: url(../../assets/stupina_small_dark.jpeg);
   }
 }
 
