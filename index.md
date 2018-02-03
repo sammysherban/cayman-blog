@@ -17,7 +17,7 @@ La noi găsiți miere de albine din flori de salcâm, tei, rapiță sau poliflor
 <a href="{{ about_page.url | relative_url }}" aria-label="Contact" title="Contactează Stupina Șerban">Cum cumpăr?</a>
 
 <div>
-    <div name="image-row-3"> ![Miere de salcâm](assets/salcam-512.jpeg) Miere de salcâm </div>
-    <div name="image-row-3"> ![Miere polifloră](assets/poliflora-512.jpeg) Miere polifloră </div>
-    <div name="image-row-3"> ![Miere de rapiță](assets/rapita-512.jpeg) Miere de rapiță</div>
+    <div name="image-row-3"> <img src="assets/salcam-512.jpeg" alt="Miere de salcâm"/> Miere de salcâm </div>
+    <div name="image-row-3"> <img src="assets/poliflora-512.jpeg" alt="Miere polifloră"/> Miere polifloră </div>
+    <div name="image-row-3"> <img src="assets/rapita-512.jpeg" alt="Miere de rapiță"/> Miere de rapiță</div>
 </div>
