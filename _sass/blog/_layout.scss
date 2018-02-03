@@ -47,8 +47,11 @@
       margin-right: 20px;
     }
 
+    // On mobile, this is a vertical menu, so it need same alignment on all elements
     @include media-query($on-palm) {
-      margin-right: 10px;
+      &:not(:last-child) {
+        margin-right: 10px;
+      }
     }
   }
 
