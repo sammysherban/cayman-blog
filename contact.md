@@ -30,7 +30,7 @@ Acasă: De luni până sâmbătă între orele 9 dimineața și 7 seara.
 </style>
 
 <div class="google-maps">
-     <iframe src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d2845.6225603756325!2d25.979750283590125!3d44.502400135462906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d44.502530199999995!2d25.9800507!5e0!3m2!1sen!2suk!4v1517527839272" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2845.616759589912!2d25.977925051675772!3d44.50251897899872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b20441e8f96d65%3A0x8ba3e53e75d07153!2sMiere+din+Stupina+%C8%98erban!5e0!3m2!1sen!2suk!4v1517779853859" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 <p>Piața 16 Februarie</p>
