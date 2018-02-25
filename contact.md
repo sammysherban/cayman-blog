@@ -39,4 +39,11 @@ Acasă: De luni până sâmbătă între orele 9 dimineața și 7 seara.
     <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d2846.4619727257973!2d26.03296807543606!3d44.48520003849439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x40b203c09788b943%3A0xb140cc04b2eb2bfb!2sPia%C8%9Ba+16+Februarie%2C+Strada+Pie%C8%9Bei%2C+Bucure%C8%99ti%2C+Romania!3m2!1d44.4849597!2d26.0330992!5e0!3m2!1sen!2suk!4v1517677116080" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+<p/>
+
+Produsele noastre: miere de salcâm, rapiță, polifloră, polen și propolis
+
+![Stupina Șerban - Miere de salcâm, rapiță, polifloră, polen și propolis](assets/produse_stupina_serban.jpg)
+
+
 [Înapoi la pagina principală]({{ site.url }}{{ site.baseurl }})
